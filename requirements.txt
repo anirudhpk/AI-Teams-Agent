@@ -1,0 +1,10 @@
+aiohttp
+beautifulsoup4
+botbuilder-core
+botbuilder-integration-aiohttp
+fastapi
+msal
+openai
+python-dotenv
+requests
+uvicorn
